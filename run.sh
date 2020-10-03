@@ -1,0 +1,1 @@
+docker container run -it --rm --publish 8082:8080 test-tomcat
